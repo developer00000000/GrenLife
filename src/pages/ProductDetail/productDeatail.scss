@@ -1,0 +1,31 @@
+.prodDetail{
+    display: flex;
+    column-gap: 100px;
+    @include for-tablet{
+        flex-direction: column;
+    }
+    img{
+        min-width: 300px;
+        width: 25%;
+        @include for-tablet{
+            min-width: 200px;
+            width: 100%;
+        }
+    }
+    &_main{
+        h3{
+            @include for-tablet{
+                padding-top: 30px;
+            }
+        }
+      p{
+        display: flex;
+        align-items: center;
+        column-gap: 15px;
+        padding-top: 15px;
+        .yellow{
+            color: #FAB207;
+        }
+      }
+    }
+}

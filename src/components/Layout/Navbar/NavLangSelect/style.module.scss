@@ -1,0 +1,12 @@
+.languages {
+  display: flex;
+  align-items: center;
+
+  li {
+    width: 24px;
+    cursor: pointer;
+    img {
+      width: 100%;
+    }
+  }
+}

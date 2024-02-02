@@ -1,0 +1,73 @@
+@import "../../styles/variables.scss";
+
+.section {
+  margin-top: 120px;
+  .section_heading {
+    background-color: black;
+    padding: 150px 0 40px;
+
+    h1 {
+      font-family: $font-epic;
+      text-transform: uppercase;
+      letter-spacing: 5px;
+      font-weight: 400;
+      font-size: 32px;
+    }
+
+    & > div {
+      min-height: 150px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .path {
+      display: flex;
+      align-items: center;
+      column-gap: 8px;
+    }
+    .activePage {
+      color: $primary;
+    }
+  }
+  .section_text {
+    padding: 65px 0;
+    // background-color: #18191b;
+    p {
+      letter-spacing: 0.5px;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 24px;
+    }
+  }
+  .section_image {
+    min-height: 200px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+  }
+}
+
+@media (max-width: $md) {
+  .section {
+    .section_heading {
+      text-align: center;
+
+      & > div {
+        justify-content: center;
+      }
+      .path {
+        display: none;
+      }
+    }
+  }
+}
+
+@media (max-width: $lg) {
+  .section {
+    margin-top: 80px;
+    .section_image {
+      background-attachment: local;
+      background-position: top;
+    }
+  }
+}

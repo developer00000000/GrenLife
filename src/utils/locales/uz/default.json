@@ -1,0 +1,102 @@
+{
+  "About": {
+    "subtitle": "Biz kimmiz?",
+    "text_1": "Greenlife Seed - 2007 yilda Turkiyaning Manisa shahrida tashkil etilgan qishloq xo'jaligi kompaniyasi. Greenlife 1998 yilda tashkil etilgan Polen Seed Co.ning guruh kompaniyasidir. Greenlife Seed Turkiyada va xalqaro miqyosda 16 yildan ortiq turli dala va ozuqa ekinlari urug'lari bilan shug'ullanadi.",
+    "text_2": "Bizning maqsadimiz barcha mahalliy va xalqaro ishlab chiqaruvchilarimizga yuqori darajada moslashuvchan, kasalliklarga chidamli, yuqori samarali mahsulotlarni taqdim etishdir.",
+    "text_3": "Bizning maqsadimiz paxtakorlarimizga haqiqiy ma'lumotlarni taqdim etish, eng so'nggi texnologiyalardan foydalanish va o'z sharoitlariga mos raqobatbardosh mahsulotlarni taklif qilish orqali hosil va sifatni oshirishga imkon berishdir. Biz eng yaxshi mahsulotlarni ishlab chiqarish uchun har yili ilmiy-tadqiqot ishlariga doimiy ravishda sarmoya kiritamiz. Bu bizning o'tmishdagi va kelgusi yillarda o'sishimiz uchun eng muhim katalizatordir.",
+    "text_4": "Chigitlarimizni yuqori sifatda yetishtirish uchun eng yangi texnologiya uskunalari, texnikalaridan foydalanamiz. Bizning zamonaviy chigitni qayta ishlash zavodimiz 1 million donani (50tk) quvvatga ega. Korxonamizda qayta ishlangan urug‘lar 2022-yilda 28 xil davlatga eksport qilindi.",
+    "text_5": "Polen Seed Group kompaniyalari jahon urugʻchilik sektorining hurmatiga sazovor boʻldi va yillar davomida urugʻlik yetishtirish va qayta ishlash xizmatlarini eng yuqori sifat va maxfiylik bilan taʼminlash orqali ajoyib obroʻga ega boʻldi.",
+    "text_6": "Kompaniyamiz mahalliy sa'y-harakatlardan tashqari, Ar-ge dasturimizni qo'llab-quvvatlash uchun ko'plab mahalliy, xalqaro universitetlar va tadqiqot institutlari bilan hamkorlik qiladi. Makkajo'xori, paxta va shirin makkajo'xori yetishtirish dasturlarimizdan tashqari, Turkiyada va boshqa xalqaro bozorlarda soya, beda, italyan javdar o'ti va jo'xori x sudan o'ti uchun keng qamrovli mahsulotlarni ishlab chiqish dasturlarimiz mavjud.",
+    "title": "Biz haqimizda"
+  },
+  "Contact": {
+    "btn1": "Boshqa filialni yashirish",
+    "btn2": "Boshqa filiallarni ko'rsating",
+    "btn3": "FORMANI YUBORISH",
+    "input1": "Ismingiz",
+    "input2": "Sizning elektron manzilingiz",
+    "input3": "Telefoningiz",
+    "input4": "Xabaringiz",
+    "": { "phone": "Telefon:" },
+    "place1": "Idora",
+    "place2": "Toshkent",
+    "place3": "Andijon",
+    "place4": "Farg'ona",
+    "place5": "Samarqand",
+    "place6": "Surxondaryo",
+    "place7": "Xorazm",
+    "place8": "Agronom",
+    "subtitle": "ALOQA MA'LUMOTI",
+    "title": "ALOQA"
+  },
+  "Export": {
+    "subtitle": "Boshidan",
+    "text_1": "Greenlife Seed 2000-yillarning boshidan beri o'zining xalqaro bozorlarini rivojlantirishda ulkan sa'y-harakatlarni ko'rsatdi. Bizning AR-GE dasturimizdan yangi yuqori samarali mahsulotlarning uzluksiz ishlab chiqarilishi tufayli bizning motivatsiyamiz doimo ortib bordi. Biz Yevropa, Ukraina, Rossiya, Yaqin Sharq va Shimoliy Afrika kabi turli geografiyalarda yuqori samarali mahsulotlarni joriy etishda va ro'yxatdan o'tkazishda davom etmoqdamiz. Bizning etuk guruh mahsulotlarining keng assortimenti (FAO 200 - 800) bizga ushbu turli geografiyalarda muvaffaqiyat bilan ishlash imkonini beradi.",
+    "text_2": "Biz biznes bilan shug'ullanayotgan turli bozorlarda bizning biznes hamkorlarimiz bilan “ISHONCH”ni shakllantirish birinchi ustuvor vazifamizdir. Biz birinchi navbatda barcha biznes hamkorlarimiz bilan Ishonch va Win&Win vaziyatini yaratishga katta ahamiyat berdik.",
+    "text_3": "Mijozlarimizni qoniqtirmaydigan sotuvlar asosan \"yo'qolgan savdo\" ekanligini hech qachon unutmaymiz. Biz mijozlar ehtiyojini qondirish doimiy va sog'lom biznes munosabatlarining kaliti ekanligini hech qachon unutmaymiz.",
+    "text_4": "Iltimos, barcha so'rovlar uchun elektron pochta orqali yuboring.",
+    "title": "EKSPORT"
+  },
+  "Footer": {
+    "email": "Email:",
+    "link1": "Makkajo'xori",
+    "link10": "Ariza formasi",
+    "link2": "Sabzavotlar va poliz ekinlar",
+    "link3": "Sorghum × Sudan o'ti",
+    "link4": "Italiyalik Ryegrass",
+    "link5": "Beda",
+    "link6": "Shirin bodroq",
+    "link7": "Maxfiylik siyosati",
+    "link8": "Cookie siyosati",
+    "link9": "Maxfiylik eslatmasi",
+    "phone": "Telefon:",
+    "place": "O'zbekiston Toshkent",
+    "showNum": "Ko'proq raqamlarni ko'rsatish",
+    "title1": "MEHMONLAR",
+    "title2": "MAHSULOTLAR",
+    "title3": "Siyosat",
+    "title4": "ALOQA"
+  },
+  "Pages": {
+    "About": "Biz haqimizda",
+    "Contact": "Aloqa",
+    "Export": "Eksport",
+    "Home": "Uy",
+    "Products": "Mahsulotlar",
+    "R_&_D": "Blog",
+    "Seed_Processing": "Urug'larni qayta ishlash",
+    "Seed_Production": "Urug'chilik"
+  },
+  "Home": {
+    "partners": "HAMKORLARIMIZ",
+    "subtitle1": "MAKKAJO'XORI",
+    "subtitle2": "BEDA",
+    "subtitle3": "SABZAVOTLAR VA POLIZ EKINLARI",
+    "title1": "GREENLIFE UZBEKISTAN",
+    "title2": "BIRGA O'SISH"
+  },
+  "R&D": {
+    "subtitle": "Tadqiqot va ishlanma",
+    "text_1": "Kompaniyamiz 1998-yilda tashkil etilganidan buyon ilmiy-tadqiqot ishlariga katta sarmoya kiritdi. Bizning tajribali va professional ilmiy-tadqiqot guruhimiz har yili elita zotlari va duragaylarini ko‘paytirish, sinovdan o‘tkazish va tijoratlashtirish bo‘yicha ulkan sa’y-harakatlarni ko‘rsatmoqda.",
+    "text_2": "Hisob-kitoblarga ko'ra, 2050 yilga kelib dunyoda 9,6 milliard kishi istiqomat qiladi. Buni hisobga olgan holda kompaniyamiz har yili o'z kapitalining muhim qismini ilmiy-tadqiqot bo'limiga investitsiya qilmoqda. Bizning maqsadimiz kasalliklarga, hasharotlarga, qurg'oqchilik, yuqori issiqlik kabi og'ir sharoitlarga va boshqa oddiy iqlim sharoitlariga chidamli mahsulotlar ishlab chiqarishdir. Biz dunyoni oziqlantirish uchun o'z burchimizni bajarish uchun juda ko'p ishlayapmiz.",
+    "text_3": "Kompaniyamiz ichki sa'y-harakatlardan tashqari, Ar-ge dasturimizni qo'llab-quvvatlash uchun ko'plab mahalliy va xalqaro universitetlar, tadqiqot institutlari va markazlari bilan hamkorlik qiladi. Makkajoʻxori yetishtirish dasturimizga qoʻshimcha ravishda koʻplab mamlakatlarda paxta, shirin makkajoʻxori, italyan javdarlari, joʻxori va beda uchun mahsulot ishlab chiqarish boʻyicha keng qamrovli dasturlarimiz mavjud.",
+    "title": "Blog"
+  },
+  "SeedProc": {
+    "subtitle": "Tajriba va aniqlik bilan..",
+    "text_1": "Bizning zamonaviy chigitni qayta ishlash zavodimiz 38.000 m2 maydonda qurilgan va yillar davomida Turkiyadagi eng yuqori quvvatga ega 3 ta urug'ni qayta ishlash zavodlaridan biriga aylandi. Biz bir vaqtning o'zida samaradorlikni oshirish, sifatni oshirish va atrof-muhitni hurmat qilish uchun yangi texnologiyalarga sarmoya kiritishda davom etamiz. Bizning omborlarimiz sendvich panellar bilan izolyatsiya qilingan va urug'lik sifatini saqlash uchun iqlim nazorati ostida.",
+    "text_2": "Bizning urug'larni qayta ishlash ehtiyojlarimizdan tashqari, Polen mahalliy va xalqaro urug'lik kompaniyalariga uchinchi tomonni qayta ishlash xizmatlarini ham taqdim etadi.",
+    "text_3": "Chigitlarimizni yuqori sifatda yetishtirish uchun eng yangi texnologiya uskunalari, texnikalaridan foydalanamiz. Bizning zamonaviy chigitni qayta ishlash zavodimiz 1 million donani (50tk) quvvatga ega. Korxonamizda qayta ishlangan urug‘lar 2022-yilda 30 xil davlatga eksport qilindi.",
+    "title": "Urug'larni qayta ishlash"
+  },
+  "SeedProd": {
+    "subtitle": "Boshidan beri..",
+    "text_1": "Greenlife Seed mahsulotlari bizning bosh kompaniyamiz Polen Seed Co. tomonidan ishlab chiqariladi, u Turkiyada 25 yildan ortiq vaqt davomida urug'lik makkajo'xori ishlab chiqaradigan eng yirik mahalliy urug'lik kompaniyasi hisoblanadi. Tajribali urug‘chilik jamoamiz eng so‘nggi ishlab chiqarilgan qishloq xo‘jaligi texnikasidan foydalangan holda sifatni hech qachon pasaytirmaydi va hosilni maksimal darajada oshirish uchun maksimal kuch sarflaydi.",
+    "text_2": "Polen urug'i Turkiyada FAO 180 dan FAO 800 gacha bo'lgan keng etuklik oralig'ida yuqori sifatli ishlab chiqarish uchun resurslar va tajribaga ega.",
+    "text_3": "Bizning barcha urug'chilik sug'oriladigan dalalarda amalga oshiriladi va 100% GMOsiz.",
+    "title": "Urug'chilik"
+  },
+  "Product":{
+    "sum":"so'm"
+  }
+}

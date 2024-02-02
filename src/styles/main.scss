@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.page-wrapper {
+  overflow-x: hidden;
+}
+
+.space-top {
+  margin-top: 100px;
+}
+
+.gap-top {
+  padding-top: 100px;
+}
+
+@import "../styles/mixin.scss";
+@import "../styles/variables.scss";
+@import "../components/Card/card.scss";
+@import "../components/Products/products.scss";
+@import "../components/Layout/Footer/Footer.scss";
+@import "../components/Hero/hero.scss";
+@import "../pages/Contact/contact.scss";
+@import "../components/Media/style.module.scss";
+@import "../pages/ProductDetail/productDeatail.scss";
+@import "../pages/ProductsPage/productPage.scss";

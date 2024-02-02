@@ -1,0 +1,35 @@
+.produkt{
+    margin-top: 130px;
+    margin-bottom: 100px;
+}
+.product_wrapper{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
+   
+}
+.tabs{
+    display: flex; 
+            li{
+                padding: 10px 20px;
+                
+                background-color: transparent;
+                border: 1px solid  #FAB207;
+                cursor: pointer;
+                color:  #FAB207;
+                font-weight: 500;
+                font-size: 20px;
+                text-transform: capitalize;
+                width: 100%;
+                @include for-tablet{
+                    font-size: 14px;
+                    font-weight: 400;
+                    padding: 10px 20px;
+                   
+                }
+            }
+
+}
+.active{
+    background-color: #FAB207 !important;
+        color: #000000 !important;
+}

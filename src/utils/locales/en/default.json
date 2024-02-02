@@ -1,0 +1,102 @@
+{
+  "About": {
+    "subtitle": "Who are we?",
+    "text_1": "Greenlife Seed is an agricultural company that was founded in 2007 in Manisa, Turkey. Greenlife is a group company of Polen Seed Co. which was founded in 1998. Greenlife Seed deals with different field, and feed crop seeds in Turkey, and internationally for more than 16 years.",
+    "text_2": "Our target is to provide, highly adaptive, disease tolerant, top performing products to all our domestic , and international growers.",
+    "text_3": "Our purpose is to enable our growers to maximize yields, and quality through providing true information, using latest technology, and offering competitive products for their conditions. We continuously invest in R&D every year to generate top of the line products. This is the most important catalyst for our growth in the past, and years to come.",
+    "text_4": "We use the latest technology equipment, techniques to produce our seeds with top quality. Our state of the art seed processing facility has a capacity of 1 million Units (50tk). Seeds processed in our facility has been exported to 28 different countries in 2022.",
+    "text_5": "Polen Seed Group companies have gained respect of the global seed sector, and created excellent reputation by providing seed production, and processing services with the highest quality, and confidentiality over the years.",
+    "text_6": "Besides domestic efforts, our company cooperates with many domestic, international universities, and research institutes in order to support our R & D program. In addition to our corn, cotton, and sweet corn breeding programs, we have extensive product development programs for soybeans, alfalfa, Italian ryegrass, and sorghum x sudan grass, in Turkey, other international markets.",
+    "title": "About"
+  },
+  "Contact": {
+    "btn1": "Hide other branch",
+    "btn2": "Show other branchs",
+    "btn3": "SUBMIT FORM",
+    "input1": "Your Name",
+    "input2": "Your Email",
+    "input3": "Your Phone",
+    "input4": "Your Message",
+    "": { "phone": "Phone:" },
+    "place1": "Office",
+    "place2": "Tashkent",
+    "place3": "Andijan",
+    "place4": "Ferghana",
+    "place5": "Samarkand",
+    "place6": "Surkhandarya",
+    "place7": "Khorezm",
+    "place8": "Agronomist",
+    "subtitle": "CONTACT INFO",
+    "title": "CONTACT"
+  },
+  "Export": {
+    "subtitle": "From The Beginning",
+    "text_1": "Greenlife Seed has shown tremendous efforts in developing its international markets since the early 2000s. Our motivation always kept increasing due to the continuous generation of new high performing products from our R&D program.We continue to introduce, and register top performing products in different geographies like Europe, Ukraine, Russia, Middle East, and N.Africa,. Our wide range of maturity group products (FAO 200 – 800) is enabling us to work in these different geographies with success.",
+    "text_2": "In all the different markets we do business our first priority is building “TRUST” with our business partners. We have given the utmost importance to create Trust, and Win&Win situation with all our business partners first.",
+    "text_3": "We never forget that sales that do not satisfy our customers are basically “lost sales”. We will never forget that customer satisfaction is the key to continuous, and a healthy business relationship.",
+    "text_4": "Please email   for all inquiries.",
+    "title": "EXPORT"
+  },
+  "Footer": {
+    "email": "Email:",
+    "link1": "Corn\n",
+    "link10": "Application Form",
+    "link2": "Vegetables and polly crops",
+    "link3": "Sorghum × Sudan Grass",
+    "link4": "Italian Ryegrass",
+    "link5": "Alfalfa",
+    "link6": "Sweet Corn",
+    "link7": "Privacy Policy",
+    "link8": "Cookies Policy",
+    "link9": "Privacy Notice",
+    "phone": "Phone:",
+    "place": "Uzbekistan Tashkent",
+    "showNum": "Show more numbers",
+    "title1": "VISITORS",
+    "title2": "PRODUCTS",
+    "title3": "POLICIES",
+    "title4": "CONTACT"
+  },
+  "Home": {
+    "partners": "PARTNERS",
+    "subtitle1": "CORN",
+    "subtitle2": "ALFALFA",
+    "subtitle3": "Vegetables and polly crops",
+    "title1": "GREENLIFE UZBEKISTAN",
+    "title2": "CROWING TOGETHER"
+  },
+  "Pages": {
+    "About": "About us",
+    "Contact": "Contact",
+    "Export": "Export",
+    "Home": "Home",
+    "Products": "Products",
+    "R_&_D": "Blog",
+    "Seed_Processing": "Seed Processing",
+    "Seed_Production": "Seed Production"
+  },
+  "R&D": {
+    "subtitle": "Research & Development",
+    "text_1": "Our company has heavily invested in R & D since its foundation in 1998. Our experienced, and Professional R & D Team is showing tremendous effort to breed, test, and commercialize elite inbreds, and hybrids every year.",
+    "text_2": "It is estimated that there will be 9.6 billion people living in the World by 2050. Keeping this in mind, our company is investing an important part of its capital to R&D department every year. Our target is to generate products that are tolerant to diseases, insects, tough conditions such as drought, high heat, and other out of the ordinary climatic conditions. We are working very hard to do our part for feeding the World.",
+    "text_3": "Besides internal efforts, our company cooperates with many domestic, and international universities, research institutes, and centers in order to support our R & D program. In addition to our corn breeding program, we have extensive product development programs for cotton, sweet corn, italian ryegrass, sorghum, and alfaalfa in many countries.",
+    "title": "Blog"
+  },
+  "SeedProc": {
+    "subtitle": "With experience and precision..",
+    "text_1": "Our state of the art seed processing facility, is built on 38.000 m2 land, and expanded over the years to one of the top 3 highest capacity seed processing facilities in Turkey . We continue to invest in new technology to increase efficiency, increase quality and respect the environment at the same time. Our warehouses are isolated with sandwich panels, and climate controlled for preserving the seed quality.",
+    "text_2": "In addition to our seed processing needs, Polen also provides 3rd party processing services to local, and international seed companies.",
+    "text_3": "We use the latest technology equipment, techniques to produce our seeds with top quality. Our state of the art seed processing facility has a capacity of 1 million Units (50tk). Seeds processed in our facility has been exported to 30 different countries in 2022.",
+    "title": "SEED PROCESSING"
+  },
+  "SeedProd": {
+    "subtitle": "Since the beginning..",
+    "text_1": "Greenlife Seed products are produced by our parent company Polen Seed Co. which is the largest domestic seed company that produces seed corn in Turkey for over 25 years. Our experienced seed production team, using the latest production agricultural equipment never compromise quality, putting in maximum effort to maximize yields.",
+    "text_2": "Polen Seed has the resources, and experience to produce a wide maturity range from FAO 180 to FAO 800 in Turkey with top quality.",
+    "text_3": "All our seed production is done under irrigated fields, and %100 GMO-Free.",
+    "title": "SEED PRODUCTION"
+  },
+  "Product":{
+    "sum":"sum"
+  }
+}
